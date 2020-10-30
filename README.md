@@ -4,6 +4,8 @@ Amateur chef, folk musician, bad mechanic, outdoorsman and all sorts of other th
 
 *Most importantly* I love being empathetic, building up the people around me and collectively working to make awesome technology that makes all our lives just that tiny bit brighter! 
 
+**Currently Working In: React, Gatsby, Vue, React Native, JavaScript, jQuery & Node.**
+
 Take a look at some of the things I’m working on below, or just reach out! I love talking to new people. 
 
 
