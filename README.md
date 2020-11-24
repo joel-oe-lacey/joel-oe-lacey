@@ -18,7 +18,7 @@ Take a look at some of the things I’m working on below, or just reach out! I l
 
 ## Fun Extras
 - 📝 [The Hidden Struggle of Automated Content Moderation](https://medium.com/swlh/semantics-the-hidden-struggle-of-automated-content-moderation-3ddf4a47729a)
-- 🎵 [Wellspring](https://soundcloud.com/joel-lacey-201543721/wellspring)
+- 🎵 [Wellspring](https://soundcloud.com/joel-lacey-201543721/wellspring) & [Limbo](https://soundcloud.com/joel-lacey-201543721/limbo)
 
 <!--
 **joel-oe-lacey/joel-oe-lacey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
