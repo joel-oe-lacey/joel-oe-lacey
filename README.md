@@ -13,7 +13,7 @@ Take a look at some of the things I’m working on below, or just reach out! I l
 - 🖥️ **[View My Porfolio](http://joel-oe-lacey.com/)**
 - 🖇️ [Connect With Me On Linkedin](https://www.linkedin.com/in/joellacey/)
 - 📧 [Email Me](mailto:joellacey@gmail.com)
-- 🤝 [Meet With Me](https://calendly.com/joellaceybusiness/lets-chat)
+- 🤝 [Meet With Me](https://calendly.com/joellacey)
 
 
 ## Fun Extras
