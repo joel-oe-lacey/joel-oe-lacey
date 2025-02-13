@@ -1,12 +1,12 @@
 ## Hey, I’m Joel 👋
 
-Amateur chef, folk musician, bad mechanic, outdoorsman and all sorts of other things. 
+Senior Full Stack Engineer, Amateur chef, folk musician, bad mechanic, outdoorsman and all sorts of other things. 
 
-*Most importantly* I love being empathetic, building up the people around me and collectively working to make awesome technology that makes all our lives just that tiny bit brighter! 
+*Most importantly* I love working with empathetic teams, building up the people around me and collectively striving to make AI technology that makes all our lives just that bit brighter and easier. 
 
-**Currently Working In: React, Gatsby, Vue, React Native, JavaScript, jQuery & Node.**
+**Currently Working In: React, Javascript, Python, Langchain, LLama Index, React Native **
 
-Take a look at some of the things I’m working on below, or just reach out! I love talking to new people. 
+Links to connect with me below! I love talking to new people. 
 
 
 ## Learn about me
